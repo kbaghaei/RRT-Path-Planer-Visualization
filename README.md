@@ -3,6 +3,8 @@
 I wrote this program as a an academic course project for Artificial Intelligence Course when I was at university.This is the 
 implementation of Rapidly-Exploring Random Tree (RRT) path planning algorithm using C# and windows forms.
 
+![Screen shot](https://github.com/k-timy/RRT-Path-Planer-Visualization/blob/master/screenShot.jpg)
+
 In order to run this project follow the instructions below:
 
 ### Map File:
