@@ -48,23 +48,14 @@
   <ItemGroup>
     <Compile Include="Dijkestra.cs" />
     <Compile Include="RRT.cs" />
-    <Compile Include="Useless\GraphProviderForm.cs" />
-    <Compile Include="Useless\GraphProviderForm.designer.cs">
-      <DependentUpon>GraphProviderForm.cs</DependentUpon>
-    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Useless\DijkestraClassic.cs" />
-    <Compile Include="Useless\GraphProvider.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Useless\GraphProviderForm.resx">
-      <DependentUpon>GraphProviderForm.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
